@@ -1,0 +1,204 @@
+{
+  "docs": [
+    {
+      "nombre": "IES Zambrano",
+      "cursos": {
+        "ESO": "2",
+        "Bachillerato": "15",
+        "CFGM": "13"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","laboratorio","aparcamiento"],
+      "email": "administracion@iespuntadelverde.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Julio Verne",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+  	  "zonas": ["parque","aulas","campo multiusos","teatro","aparcamiento"],
+      "email": "administracion@julioverne.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Garcia",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio","aparcamiento"],
+      "email": "administracion@garcia.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Brenes",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio"],
+      "email": "administracion@brenes.com",
+      "ciudad": "Brenes",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Nervion",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio"],
+      "email": "administracion@nervion.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Galicia",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio"],
+      "email": "administracion@galicia.com",
+      "ciudad": "Galicia",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Huelva",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas"],
+      "email": "administracion@huelva.com",
+      "ciudad": "Huelva",
+      "año": "2010"
+    },
+    {
+      "nombre": "IES Madrid",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos"],
+      "email": "administracion@madrid.com",
+      "ciudad": "Madrid",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Catalan",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","aparcamiento"],	  
+      "email": "administracion@catalan.com",
+      "ciudad": "Barcelona",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Julio",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio","aparcamiento"],	 
+      "email": "administracion@julio.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Verne",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas"],
+      "email": "administracion@verne.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro"],
+      "email": "administracion@gmail.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Vacas",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro"],
+      "email": "administracion@vacas.com",
+      "ciudad": "Campo",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Galic",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos"],
+      "email": "administracion@julioverne.com",
+      "ciudad": "Vigo",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Cordoba",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio","aparcamiento"],
+      "email": "administracion@gmail.com",
+      "ciudad": "Cordoba",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Jaen",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","aparcamiento"],
+      "email": "administracion@jaen.com",
+      "ciudad": "Jaen",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Malaga",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","aparcamiento"],
+      "email": "administracion@malaga.com",
+      "ciudad": "Malaga",
+      "año": "2018"
+    },
+    {
+      "nombre": "IES Julio Verne",
+      "cursos": {
+        "ESO": "5",
+        "Bachillerato": "5"
+      },
+	  "zonas": ["parque","aulas","campo multiusos","teatro","laboratorio","aparcamiento"],
+      "email": "administracion@julioverne.com",
+      "ciudad": "Sevilla",
+      "año": "2018"
+    }
+    
+  ]
+}
